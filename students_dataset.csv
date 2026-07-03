@@ -1,0 +1,21 @@
+student_id,name,age,gender,city,math_score,science_score,english_score,attendance_percent,passed,grade
+1,Aarav Sharma,16,Male,Mumbai,88,92,78,95,True,A
+2,Priya Nair,17,Female,Chennai,72,68,85,88,True,B
+3,Rohan Mehta,15,Male,Delhi,55,60,50,70,False,D
+4,Sneha Patel,16,Female,Ahmedabad,91,95,89,98,True,A
+5,Kiran Rao,17,Male,Bangalore,63,58,72,80,True,C
+6,Divya Iyer,15,Female,Chennai,78,82,80,92,True,B
+7,Aditya Kumar,18,Male,Delhi,45,50,40,60,False,F
+8,Meera Joshi,16,Female,Pune,84,79,88,94,True,A
+9,Vivek Singh,17,Male,Mumbai,67,71,65,75,True,C
+10,Ananya Das,15,Female,Kolkata,90,88,92,99,True,A
+11,Rahul Verma,18,Male,Jaipur,52,48,55,65,False,D
+12,Lakshmi Pillai,16,Female,Bangalore,76,80,74,87,True,B
+13,Nikhil Gupta,17,Male,Delhi,,72,68,82,True,B
+14,Pooja Reddy,15,Female,Hyderabad,83,87,81,93,True,A
+15,Arjun Nambiar,18,Male,Kochi,59,62,57,72,True,C
+16,Ishaan Chopra,16,Male,Chandigarh,70,65,73,85,True,C
+17,Riya Bose,17,Female,Kolkata,88,91,86,96,True,A
+18,Siddharth Roy,15,Male,Mumbai,42,45,,55,False,F
+19,Kavya Menon,16,Female,Kochi,79,83,77,90,True,B
+20,Tarun Bhatt,18,Male,Ahmedabad,65,60,70,78,True,C
